@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+PyJWT
+passlib[bcrypt]
+google-generativeai
+httpx
+python-multipart
